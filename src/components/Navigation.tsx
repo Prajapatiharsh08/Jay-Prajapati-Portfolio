@@ -19,7 +19,7 @@ export const Navigation = () => {
     { name: "About", href: "#about" },
     { name: "Skills", href: "#skills" },
     { name: "Experience", href: "#experience" },
-    { name: "Certifications", href: "#certifications" },
+    // { name: "Certifications", href: "#certifications" },
     { name: "Contact", href: "#contact" },
   ];
 
