@@ -2,7 +2,7 @@
  * API service for making requests to the backend
  */
 
-const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:3001/api';
+const API_URL = import.meta.env.VITE_API_URL || 'https://jay-prajapati-portfolio.onrender.com/api';
 
 /**
  * Contact form submission
